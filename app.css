@@ -1,0 +1,106 @@
+#wer{
+    color: black;
+    font-style: bold;
+    margin-left: 61px;
+}
+.button{
+    display: flex;
+    justify-content: end;
+    margin-top: -42px;
+    margin-right: 19px;
+}
+#sdf{
+    background-color: aqua;
+}
+
+.pot{
+    display: flex;
+    justify-content: start;
+}
+.jim{
+    display: flex;
+    justify-content: end;
+    margin-top: -64px;
+
+}
+ul li a{
+    padding: 1px;
+    color: #232323;
+    text-decoration: none;
+    border-radius: 10px;
+}
+ul li{
+    list-style: none;
+    margin: 15px;
+    border-radius: 20px;
+}
+.iop{
+    width: 29vw;
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-image: initial;
+    background: url(./iphone14.jpeg) center center / cover no-repeat;
+    border-radius: 15px;
+}
+.asd{
+    background-color: azure;
+}
+.klo{
+    width: 29vw;
+    height: 360px;
+    margin-left: 433px;
+    display: flex;
+    margin-top: -385px;
+    justify-content: center;
+    align-items: flex-end;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-image: initial;
+    background: url(./logo.jpeg) center center / cover no-repeat;
+    border-radius: 15px;
+}
+.nbv{
+    width: 20vw;
+    height: 440px;
+    margin-left: 883px;
+    display: flex;
+    margin-top: -389px;
+    justify-content: center;
+    align-items: flex-end;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-image: initial;
+    background: url(./12.jpg) center center / cover no-repeat;
+    border-radius: 15px;
+}
+.swe{
+    width: 29vw;
+    height: 360px;
+    margin-left: 31px;
+    display: flex;
+    margin-top: -15px;
+    color: aliceblue;
+    justify-content: center;
+    align-items: flex-end;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-image: initial;
+    background: url(./14\ pro\ larger\ frmae.jpg) center center / cover no-repeat;
+    border-radius: 15px;
+
+}
+.container1{
+    text-align: right;
+}
+.dfg{
+    margin-top: 4px;
+    margin-left: 50px;
+}
